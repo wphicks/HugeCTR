@@ -16,6 +16,7 @@
 
 #include <base/debug/logger.hpp>
 #include <inference/rocksdb_backend.hpp>
+#include <unordered_set>
 
 namespace HugeCTR {
 
